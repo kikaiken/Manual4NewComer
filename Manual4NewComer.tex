@@ -1,6 +1,8 @@
 \documentclass[a4paper,titlepage]{ujarticle}
 \usepackage[top=20truemm,bottom=20truemm,left=10truemm,right=10truemm]{geometry}
 \usepackage{here}
+\usepackage{color}
+\usepackage{colortbl}
 \usepackage[dvipdfmx]{graphicx}
 
 \title{京都大学　機械研究会　新入生教本}
@@ -10,4 +12,20 @@
 \begin{document}
 \maketitle
 \section{序文}
+\section{抵抗}
+回路の基礎中の基礎。電流の制限、分圧やプルアップなど、様々な用途に用いる。この節では用途ではなく抵抗選定のための知識に主眼を置く。
+\subsection{カラーコード}
+抵抗には、カラーコードと呼ばれる色のついた帯が印刷されている。必ずしも暗記する必要はない(暗記しなくても済むように整理しておく方が有意義である)が、よく使う抵抗値についてはばらまく可能性も高いので覚えておくことが好ましい。
+
+各色の意味は以下の通りである。
+
+\begin{table}[H]
+	\begin{tabular}{|cc|c|c|c|}\hline
+		色&&数値&乗率&精度\\ \hline
+		黒&\cellcolor{black}{　}&0&1&N/A\\ \hline
+		茶&\cellcolor[rgb]{0.647059,0.164706,0.164706}{　}&2&10&$\pm$1\%\\ \hline
+		赤&\cellcolor{red}{　}&3&100&$\pm$2\%\\ \hline
+		黄赤&\cellcolor[rgb]{0.894118,0.368627,0}{　}&4&1,000&$\pm$3\% \\ \hline
+	\end{tabular}
+\end{table}
 \end{document}
