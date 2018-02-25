@@ -3,7 +3,7 @@
 \usepackage{here}
 \usepackage{color}
 \usepackage{colortbl}
-\usepackage[dvipdfmx]{graphicx}
+\usepackage{graphicx}
 
 \title{京都大学　機械研究会　新入生教本}
 \date{\today}
@@ -22,10 +22,32 @@
 \begin{table}[H]
 	\begin{tabular}{|cc|c|c|c|}\hline
 		色&&数値&乗率&精度\\ \hline
+		無&&N/A&N/A&$\pm$20\%\\ \hline
+		桃&\cellcolor[rgb]{1,0.412,0.706}{　}&N/A&$10^{-3}$&N/A\\ \hline
+		銀&\cellcolor[rgb]{0.753,0.753,0.753}{　}&N/A&$10^{-2}$&$\pm$10\%\\ \hline
+		金&\cellcolor[rgb]{0.812,0.71,0.231}{　}&N/A&$10^{-1}$&$\pm$5\%\\ \hline
 		黒&\cellcolor{black}{　}&0&1&N/A\\ \hline
-		茶&\cellcolor[rgb]{0.647059,0.164706,0.164706}{　}&2&10&$\pm$1\%\\ \hline
-		赤&\cellcolor{red}{　}&3&100&$\pm$2\%\\ \hline
-		黄赤&\cellcolor[rgb]{0.894118,0.368627,0}{　}&4&1,000&$\pm$3\% \\ \hline
+		茶&\cellcolor[rgb]{0.647059,0.164706,0.164706}{　}&1&10&$\pm$1\%\\ \hline
+		赤&\cellcolor{red}{　}&2&$10^2$&$\pm$2\%\\ \hline
+		橙&\cellcolor[rgb]{0.894118,0.368627,0}{　}&3&$10^3$&$\pm$3\% \\ \hline
+		黄&\cellcolor{yellow}{　}&4&$10^4$&$\pm$5\%\\ \hline
+		緑&\cellcolor{green}{　}&5&$10^5$&$\pm$0.5\%\\ \hline
+		青&\cellcolor{blue}{　}&6&$10^6$&$\pm$0.25\%\\ \hline
+		紫&\cellcolor[rgb]{0.58,0,0.827}{　}&7&$10^7$&$\pm$0.1\%\\ \hline
+		灰&\cellcolor[rgb]{0.627,0.627,0.627}{　}&8&$10^8$&$\pm$0.05\%\\ \hline
+		白&\cellcolor[rgb]{1,1,1}{　}&9&$10^9$&$\pm$0.025\%\\ \hline
 	\end{tabular}
 \end{table}
+\subsection{種類}
+一口に抵抗といっても、材質や用途によって区別される。ここではそれらの抵抗の種類について述べる。
+\subsubsection{カーボン抵抗}
+最も一般的な抵抗。精度は5\%程度で温度特性も悪いが安価であるためよく使われる。1/4W程度の定格電力であることが多い。
+\subsubsection{金属皮膜抵抗}
+精度は1\%以下であることが多く、温度特性もよいが、カーボン抵抗よりは高価である。分圧する場合などに精度が欲しいときは使うことになるだろう。1/8Wなど、カーボン抵抗よりも定格電力が低い傾向がある。
+\subsubsection{セメント抵抗}
+W単位の大電力を流したい場合に使用する。
+\subsubsection{チップ抵抗}
+面実装をするための抵抗のことを示す。
+\subsubsection{シャント抵抗}
+シャント(shunt)は英語では並列接続のことを意味するが、シャント抵抗といった場合は電流計に用いるための低抵抗、高精度、高定格電力な抵抗のことを言う。
 \end{document}
