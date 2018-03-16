@@ -1,16 +1,16 @@
-This is e-upTeX, Version 3.14159265-p3.7.1-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/W32TeX) (preloaded format=uplatex 2018.2.13)  25 FEB 2018 23:53
+This is e-upTeX, Version 3.14159265-p3.7.2-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/W32TeX) (preloaded format=uplatex 2017.9.19)  16 MAR 2018 14:43
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
  %&-line parsing enabled.
 **Manual4NewComer.tex
 (./Manual4NewComer.tex
-pLaTeX2e <2017/05/05u01> (based on LaTeX2e <2017-04-15>)
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(d:/texlive/2017/texmf-dist/tex/uplatex/base/ujarticle.cls
+pLaTeX2e <2017/07/29u01>+1 (based on LaTeX2e <2017-04-15>)
+Babel <3.13> and hyphenation patterns for 84 language(s) loaded.
+(c:/w32tex/share/texmf-dist/tex/uplatex/base/ujarticle.cls
 Document Class: ujarticle 2017/03/05 v1.7e-u00 Standard upLaTeX class
 \c@@paper=\count82
-(d:/texlive/2017/texmf-dist/tex/uplatex/base/ujsize10.clo
+(c:/w32tex/share/texmf-dist/tex/uplatex/base/ujsize10.clo
 File: ujsize10.clo 2017/03/05 v1.7e-u00 Standard upLaTeX file (size option)
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 28.
@@ -35,21 +35,21 @@ LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 \bibindent=\dimen120
 \heisei=\count91
 )
-(d:/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/w32tex/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(c:/w32tex/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(c:/w32tex/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(d:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(c:/w32tex/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count92
@@ -64,9 +64,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen127
 \Gm@layoutvoffset=\dimen128
 \Gm@dimlist=\toks16
-)
-(d:/texlive/2017/texmf-dist/tex/latex/here/here.sty)
-(d:/texlive/2017/texmf-dist/tex/latex/float/float.sty
+
+(c:/w32tex/share/texmf-dist/tex/latex/geometry/geometry.cfg))
+(c:/w32tex/share/texmf-dist/tex/latex/here/here.sty)
+(c:/w32tex/share/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count95
 \float@exts=\toks17
@@ -74,24 +75,24 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks18
 \@floatcapt=\box43
 )
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/w32tex/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: dvips.def on input line 147.
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
+(c:/w32tex/share/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 )
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/dvipsnam.def
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-(d:/texlive/2017/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+(c:/w32tex/share/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
 
-(d:/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+(c:/w32tex/share/texmf-dist/tex/latex/tools/array.sty
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen129
 \extrarowheight=\dimen130
@@ -102,16 +103,16 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \everycr=\toks20
 \minrowclearance=\skip45
 )
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(d:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(d:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/w32tex/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvips.def on input line 99.
@@ -222,14 +223,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 23.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 4.8111pt on input line 23.
- [1] [2] [3] (./Manual4NewComer.aux) ) 
+ [1] [2] [3] [4] (./Manual4NewComer.aux) ) 
 Here is how much of TeX's memory you used:
- 1454 strings out of 493649
- 19768 string characters out of 6151996
- 91311 words of memory out of 5000000
- 5069 multiletter control sequences out of 15000+600000
+ 1479 strings out of 493631
+ 20273 string characters out of 6150398
+ 91715 words of memory out of 5000000
+ 5096 multiletter control sequences out of 15000+600000
  9220 words of font info for 45 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 34i,11n,19p,424b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,11n,19p,544b,218s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on Manual4NewComer.dvi (4 pages, 11428 bytes).
+Output written on Manual4NewComer.dvi (5 pages, 17140 bytes).
