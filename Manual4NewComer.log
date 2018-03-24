@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7.2-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/W32TeX) (preloaded format=uplatex 2017.9.19)  16 MAR 2018 22:56
+This is e-upTeX, Version 3.14159265-p3.7.2-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/W32TeX) (preloaded format=uplatex 2017.9.19)  24 MAR 2018 15:05
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -212,18 +212,18 @@ LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 22.
+(Font)              <5> on input line 23.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 4.8111pt on input line 22.
+(Font)              scaled to size 4.8111pt on input line 23.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 42.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 42.
+(Font)              scaled to size 9.6222pt on input line 41.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 42.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 42.
- [1] [2] [3] [4] [5] (./Manual4NewComer.aux) ) 
+(Font)              scaled to size 9.6222pt on input line 41.
+ [1] [2] [3] [4] [5] [6] (./Manual4NewComer.aux) ) 
 Here is how much of TeX's memory you used:
  1479 strings out of 493631
  20273 string characters out of 6150398
@@ -231,6 +231,6 @@ Here is how much of TeX's memory you used:
  5096 multiletter control sequences out of 15000+600000
  9220 words of font info for 45 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 34i,11n,19p,626b,218s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 34i,11n,19p,927b,218s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on Manual4NewComer.dvi (6 pages, 20156 bytes).
+Output written on Manual4NewComer.dvi (7 pages, 27836 bytes).
