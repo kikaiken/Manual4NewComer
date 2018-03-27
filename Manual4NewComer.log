@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.6-u1.20-141210-2.6 (utf8.uptex) (TeX Live 2015/Debian) (preloaded format=uplatex 2018.3.19)  26 MAR 2018 20:40
+This is e-upTeX, Version 3.14159265-p3.6-u1.20-141210-2.6 (utf8.uptex) (TeX Live 2015/Debian) (preloaded format=uplatex 2018.3.19)  27 MAR 2018 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -236,7 +236,7 @@ LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 7.69775pt on input line 236.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 236.
- [8] [9] (./Manual4NewComer.aux) ) 
+ [8] [9] [10] (./Manual4NewComer.aux) ) 
 Here is how much of TeX's memory you used:
  1460 strings out of 494857
  19734 string characters out of 6179755
@@ -246,4 +246,4 @@ Here is how much of TeX's memory you used:
  264 hyphenation exceptions out of 8191
  34i,11n,21p,927b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Manual4NewComer.dvi (10 pages, 42192 bytes).
+Output written on Manual4NewComer.dvi (11 pages, 43304 bytes).
