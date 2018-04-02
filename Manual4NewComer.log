@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7.2-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/W32TeX) (preloaded format=uplatex 2017.9.19)  3 APR 2018 02:39
+This is e-upTeX, Version 3.14159265-p3.7.2-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/W32TeX) (preloaded format=uplatex 2017.9.19)  3 APR 2018 08:33
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -216,42 +216,42 @@ LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
+(Font)              <5> on input line 3.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 4.8111pt on input line 2.
+(Font)              scaled to size 4.8111pt on input line 3.
  [1])
 \tf@toc=\write3
 \openout3 = `Manual4NewComer.toc'.
 
  [2]
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 18.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 18.
+(Font)              scaled to size 11.54663pt on input line 28.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 18.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 18.
- [3] [4] [5] [6] [7] [8] [9] [10]
+(Font)              scaled to size 11.54663pt on input line 28.
+ [3] [4] [5] [6] [7] [8] [9] [10] [11]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 252.
+(Font)              <12> on input line 270.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 252.
+(Font)              <8> on input line 270.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 252.
+(Font)              <6> on input line 270.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 252.
+(Font)              scaled to size 7.69775pt on input line 270.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 252.
- [11]
-[12] (./Manual4NewComer.aux) ) 
+(Font)              scaled to size 5.77332pt on input line 270.
+
+[12] [13] (./Manual4NewComer.aux) ) 
 Here is how much of TeX's memory you used:
  1496 strings out of 493631
  20358 string characters out of 6150398
- 91461 words of memory out of 5000000
+ 91483 words of memory out of 5000000
  5108 multiletter control sequences out of 15000+600000
  11998 words of font info for 55 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  34i,11n,21p,927b,218s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on Manual4NewComer.dvi (13 pages, 91620 bytes).
+Output written on Manual4NewComer.dvi (14 pages, 96800 bytes).
