@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7.2-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/W32TeX) (preloaded format=uplatex 2017.9.19)  7 APR 2018 13:54
+This is e-upTeX, Version 3.14159265-p3.7.2-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/W32TeX) (preloaded format=uplatex 2017.9.19)  12 APR 2018 11:33
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -272,7 +272,11 @@ LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 \tf@toc=\write3
 \openout3 = `Manual4NewComer.toc'.
 
- [1]
+
+Overfull \vbox (5.95746pt too high) has occurred while \output is active []
+
+
+[1]
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 6.73553pt on input line 28.
  [2]
@@ -286,24 +290,24 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 35.
  [3] [4] [5] [6] [7] [8] [9] [10]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 277.
+(Font)              <12> on input line 285.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 277.
+(Font)              <8> on input line 285.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 277.
+(Font)              <6> on input line 285.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 277.
+(Font)              scaled to size 7.69775pt on input line 285.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 277.
- [11]
-[12] [13] [14] (./Manual4NewComer.aux) ) 
+(Font)              scaled to size 5.77332pt on input line 285.
+ [11] [12] [13] [14]
+(./Manual4NewComer.aux) ) 
 Here is how much of TeX's memory you used:
  1610 strings out of 493631
  22058 string characters out of 6150398
- 129186 words of memory out of 5000000
+ 136186 words of memory out of 5000000
  5219 multiletter control sequences out of 15000+600000
  11998 words of font info for 55 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  34i,11n,21p,927b,218s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on Manual4NewComer.dvi (15 pages, 84196 bytes).
+Output written on Manual4NewComer.dvi (15 pages, 86612 bytes).
