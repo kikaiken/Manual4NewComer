@@ -1,0 +1,45 @@
+\documentclass[a4paper,titlepage,here]{ujarticle}
+\usepackage[top=20truemm,bottom=20truemm,left=10truemm,right=10truemm]{geometry}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage[dvipdfmx]{hyperref}
+\usepackage{pxjahyper}
+
+\title{Chip2Arduino \\Nightly Build}
+\date{\today}
+\author{京都大学　機械研究会\\ 松岡　航太郎}
+
+\begin{document}
+\maketitle
+\begin{multicols}{2}
+\tableofcontents
+\end{multicols}
+\section{本書の流れ}
+本書ではチップからArduino UNOの互換機を作成し、それを用いていくつかの簡単なデモを作成するという過程を説明することによって、電子回路とプログラミングとについて基本的な知識と技術を学んでもらうことを意図している。
+
+第\ref{ardis}章ではまず目的となるArduinoについて簡単に説明する。
+
+第\ref{minreq}章ではArduino UNOの互換機を作成するにあたって最低限必要な要素が何であるかを定義する。
+
+第4章ではArduino IDEについて説明する。
+\section{Arduino}\label{ardis}
+Arduinoは、狭義でいえばArduino LLCとArduino SRCによって設計・製造されるマイコンボード(マイコンとマイコンを動作させるための基本的回路とインターフェースを整え、簡単に使えるようにパッケージ化したもの)のことである。広義ではArduinoの公式開発環境であるArduino IDEを中心とした開発環境のことを指す。狭義と広義の定義の間にあるギャップは、Arduino IDEは純正のArduino以外のマイコンでもブートローダーなどを整えればArduinoのように開発可能であるためである。この状況はArduinoの教育用として開発されたが故の取り扱いの容易さと高い汎用性が高く評価されたということの証左であるとともに、オープンソース文化の賜物であるといえよう。
+
+本書の目的となるのはArduino"互換機"(クローンともいう)の作成である。つまり、純正のArduinoではない。Arduinoは商標登録された名前であり、Arduinoの名を冠することのできるマイコンボードは純正のもののみである。しかし、Arduinoはオープンソースハードウェアの代表例でもある。すなわち、そのハードウェアを作るための情報は完全に公開されている。互換機という言葉が示すのは、純正と同じではなくとも、全く同じ、あるいは似たような部品を使うことで純正のArduinoと同じようなふるまいを示すボードを作れるということである。この状況は多くのArduino互換機を生み出すこととなった。ここでは詳しくそれらを列挙することはしない。
+
+以降、本書でArduinoといった場合は広義の定義を用い、狭義のArduinoを指す場合は純正Arduinoと呼称することにする。
+
+本書ではまず純正Arduinoの代表格であるArduino UNOの互換機を作成することを目標とする。
+\section{互換機の最低要件}\label{minreq}
+\subsection{Atmega 328P-PU}
+Arduino UNOの互換機を作る上で、最も重要なパーツはマイコンである。
+
+マイコンとは、コンピュータが動作するのに最低限必要なCPU、RAM、ROM、発振器などを一つのチップの中に集積したもので、Arduino UNOに採用されているのはAtmel社(現在はMicrochip社に買収されており、ブランドとしてその名が残っている状態である)のAtmega328P-PUである。このAtmega328P-PUという型番はAtmegaがシリーズ名、328Pがチップの中身がどうなっているか、-PUがパッケージ、つまり物理的な形状を指定している。
+
+早速だが、Atmega 328P-PUがどのようなマイコンであるかを理解するためにその\href{http://akizukidenshi.com/download/mcu/avr/atmega48-88-168-328_A_P_PA.pdf}{データシート}を見てみよう。(リンク先はおそらく諸君がよくお世話になるだろう秋月電子がホストしているものになっている)この先ではこのPDFを見ながら読んでもらうことを想定している。
+
+まずは一ページの右側を見てほしい。そこを見るとAtmega328Pという文字が見えるだろう。これでこのPDFが確かにAtmega 328P-PUのデータシートであることがわかる。パッケージの指定部分は電気的な性質にほぼ影響を与えないため、このようにパッケージ指定部を省略した形で指定することがままある。Atmega328P以外にもここにはAtmega48AなどのAtmegaから始まる名前が書いてあるが、これが意味するのはこれらの名前のマイコンとAtmega328Pとはマイナーチェンジの関係にあるのみで大きな差はないということである。このようにマイナーチェンジ品は型番が変わっていても同じデータシートに載せることがよくある。
+\end{document}

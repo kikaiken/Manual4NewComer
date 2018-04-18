@@ -1,0 +1,20 @@
+This is e-upTeX, Version 3.14159265-p3.7.1-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017) (preloaded format=uplatex 2018.2.27)  15 MAR 2018 14:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**%.tex
+! Emergency stop.
+<*> %.tex
+         
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 1 string out of 495109
+ 10 string characters out of 6184637
+ 50210 words of memory out of 5000000
+ 3584 multiletter control sequences out of 15000+600000
+ 5991 words of font info for 31 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 0i,0n,0p,1b,6s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
