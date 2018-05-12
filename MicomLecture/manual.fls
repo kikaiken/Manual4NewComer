@@ -1,0 +1,149 @@
+PWD /home/naoki/Nextcloud/機械研究会/マイコン講習
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/euptex/uplatex.fmt
+INPUT /home/naoki/Nextcloud/機械研究会/マイコン講習/manual.tex
+OUTPUT manual.log
+INPUT /usr/share/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /usr/share/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /usr/share/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/share/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/share/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/share/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/share/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texmf-dist/tex/latex/url/url.sty
+INPUT manual.aux
+INPUT manual.aux
+OUTPUT manual.aux
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT circuit.jpg
+INPUT extractbb -B cropbox -O circuit.jpg
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT wiring.png
+INPUT extractbb -B cropbox -O wiring.png
+OUTPUT manual.dvi
+INPUT /usr/share/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/share/texmf-dist/tex/latex/base/omscmr.fd
+INPUT nano.jpg
+INPUT extractbb -B cropbox -O nano.jpg
+INPUT driver_1.png
+INPUT extractbb -B cropbox -O driver_1.png
+INPUT driver_2.png
+INPUT extractbb -B cropbox -O driver_2.png
+INPUT driver_3.png
+INPUT extractbb -B cropbox -O driver_3.png
+INPUT driver_4.png
+INPUT extractbb -B cropbox -O driver_4.png
+INPUT driver_5.png
+INPUT extractbb -B cropbox -O driver_5.png
+INPUT found_arduino.png
+INPUT extractbb -B cropbox -O found_arduino.png
+INPUT download_1.png
+INPUT extractbb -B cropbox -O download_1.png
+INPUT download_2.png
+INPUT extractbb -B cropbox -O download_2.png
+INPUT arduino_1.png
+INPUT extractbb -B cropbox -O arduino_1.png
+INPUT arduino_2.png
+INPUT extractbb -B cropbox -O arduino_2.png
+INPUT arduino_3.png
+INPUT extractbb -B cropbox -O arduino_3.png
+INPUT arduino_4.png
+INPUT extractbb -B cropbox -O arduino_4.png
+INPUT arduino_5.png
+INPUT extractbb -B cropbox -O arduino_5.png
+INPUT ide.png
+INPUT extractbb -B cropbox -O ide.png
+INPUT ide_button.png
+INPUT extractbb -B cropbox -O ide_button.png
+INPUT serial_config.png
+INPUT extractbb -B cropbox -O serial_config.png
+INPUT board_config.png
+INPUT extractbb -B cropbox -O board_config.png
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT l_chika_1.png
+INPUT extractbb -B cropbox -O l_chika_1.png
+INPUT l_chika_2.png
+INPUT extractbb -B cropbox -O l_chika_2.png
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT switch_1.png
+INPUT extractbb -B cropbox -O switch_1.png
+INPUT switch_2.png
+INPUT extractbb -B cropbox -O switch_2.png
+INPUT switch_5.png
+INPUT extractbb -B cropbox -O switch_5.png
+INPUT switch_3.png
+INPUT extractbb -B cropbox -O switch_3.png
+INPUT switch_4.png
+INPUT extractbb -B cropbox -O switch_4.png
+INPUT servo_pwm.png
+INPUT extractbb -B cropbox -O servo_pwm.png
+INPUT pwm_2.png
+INPUT extractbb -B cropbox -O pwm_2.png
+INPUT pwm.jpg
+INPUT extractbb -B cropbox -O pwm.jpg
+INPUT datasheet_1.jpg
+INPUT extractbb -B cropbox -O datasheet_1.jpg
+INPUT datasheet_2.jpg
+INPUT extractbb -B cropbox -O datasheet_2.jpg
+INPUT serial_1.png
+INPUT extractbb -B cropbox -O serial_1.png
+INPUT serial_3.png
+INPUT extractbb -B cropbox -O serial_3.png
+INPUT serial_2.png
+INPUT extractbb -B cropbox -O serial_2.png
+INPUT manual.aux
